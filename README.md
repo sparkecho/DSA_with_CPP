@@ -1,2 +1,2 @@
 # DSA_with_CPP
-C++ Implementation of simple Data Structure &amp; Algorithm
+C++ Implementation of simple Data Structure & Algorithm
